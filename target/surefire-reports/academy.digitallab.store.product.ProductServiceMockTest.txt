@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: academy.digitallab.store.product.ProductServiceMockTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.722 s - in academy.digitallab.store.product.ProductServiceMockTest
